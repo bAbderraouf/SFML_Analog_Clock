@@ -9,7 +9,7 @@ A desktop application that displays a real-time **analog clock** developed in **
 
 ## 📸 Preview
 
-![AnalogClock Screenshot](assets/images/AnalogClock.gif)
+![AnalogClock Screenshot](assets/images/AnalogClcokSFML.gif)
 ---
 
 ## ✨ Features
